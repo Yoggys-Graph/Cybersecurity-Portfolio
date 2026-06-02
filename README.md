@@ -56,7 +56,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 - Ingested logs and created detection queries  
 - Investigated suspicious login attempts  
 
-👉 [View Project](link-to-project)
+👉 [View Project](https://github.com/Yoggys-Graph/SIEM-Dashboard/tree/main)
 
 ---
 
