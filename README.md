@@ -9,6 +9,14 @@
 
 ## 🧠 About Me
 
+As an entry-level analyst, paying attention to details is one of my strong points. I also have strong written and verbal communication skills.
+
+I'm of the same opinion as this quote: "The price of greatness is responsibility" —Winston Churchill. I believe this value will be useful to your organization if I'm considered.
+
+The feeling you get when you make sure your and other people's belongings are safe and well protected from external threats is what gave birth to this new found passion in cybersecurity.
+
+I have always been the type that gives confidentiality room to thrive and makes sure integrity is well preserved to achieve a less vulnerable lifestyle in today's AI world.
+
 I am passionate about cybersecurity and focused on building hands-on skills in:
 
 - Threat Detection & Incident Response  
