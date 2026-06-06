@@ -43,7 +43,8 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 - Networking (TCP/IP, DNS, HTTP)
 
 **Programming**
-- Python  
+- Python
+- SQL
 - Bash  
 
 ---
