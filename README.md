@@ -51,9 +51,11 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 ## 📂 Portfolio Projects
 
 ### 🔍 Phishing Email Analysis
-- Analyzed suspicious email headers and attachments  
-- Identified indicators of compromise (IOCs)  
-- Tools: VirusTotal, Wireshark  
+- Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
+- Helped identify and report security threats such as phishing.
+- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
+
+- Tools: VirusTotal, Wirshark
 
 👉 [View Project](link-to-project)
 
@@ -98,7 +100,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ## 🎓 Certifications
 
-- [Certification Name] – [Organization]  
+- [Not completed - Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]  
 - [Certificate of Completion; Introduction to Programming (Python)] – [Ustacky]
 - [Certificate of Completion; Responsive Web Development] – [Coursera]
 - 
