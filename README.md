@@ -33,9 +33,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 **Security Tools**
 - Wireshark  
 - Splunk  
-- Nmap  
-- Burp Suite  
-- Metasploit  
+- Nmap
 
 **Technologies**
 - Linux (Kali, Ubuntu)  
@@ -45,7 +43,8 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 **Programming**
 - Python
 - SQL
-- Bash  
+- HTML/CSS
+- JavaScript
 
 ---
 
@@ -100,7 +99,15 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 ## 🎓 Certifications
 
 - [Certification Name] – [Organization]  
-- [Certification Name] – [Organization]  
+- [Certificate of Completion; Introduction to Programming (Python)] – [Ustacky]
+- [Certificate of Completion; Responsive Web Development] – [Coursera]
+- 
+- [Certificate of Completion; Master Card Phishing Email Simulation] – [Forage]
+- 
+
+👉 [View Project](link-to-certificate)
+
+👉 [View Project](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6a242dd7847afa3019eb733e_1780766804122_completion_certificate.pdf)
 
 ---
 
