@@ -55,16 +55,18 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 - Helped identify and report security threats such as phishing.
 - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
 
-- Tools: VirusTotal, Wirshark
+- Tools: PPTX and PDF Assesibility
 
-👉 [View Project](link-to-project)
+👉 [View Project](https://github.com/Yoggys-Graph/Phishing_Analysis.git)
 
 ---
 
 ### 📊 SIEM Lab (Splunk)
 - Built a home SOC lab using Splunk  
 - Ingested logs and created detection queries  
-- Investigated suspicious login attempts  
+- Investigated suspicious login attempts
+- Blocked the suspicious IP address
+- Detect the location of the IP address
 
 👉 [View Project](https://github.com/Yoggys-Graph/SIEM-Dashboard/tree/main)
 
