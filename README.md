@@ -109,7 +109,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 - [Certificate of Completion; Master Card Phishing Email Simulation] – [Forage]
 - 
 
-👉 [View Project](link-to-certificate)
+👉 [View Project](https://drive.google.com/file/d/1FjXLmTG00jVr8BMejV9mkmuG6SlLRfj3/view?usp=drivesdk)
 
 👉 [View Project](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6a242dd7847afa3019eb733e_1780766804122_completion_certificate.pdf)
 
