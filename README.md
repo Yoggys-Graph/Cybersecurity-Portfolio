@@ -61,8 +61,8 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ---
 
-### 📊 SIEM Lab (Splunk)
-- Built a home SOC lab using Splunk  
+### 📊 SIEM Lab (SIEM dashboard)
+- Built a home SOC lab using SIEM dashboard 
 - Ingested logs and created detection queries  
 - Investigated suspicious login attempts
 - Blocked the suspicious IP address
@@ -102,12 +102,18 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ## 🎓 Certifications
 
-- [Not completed - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]  
+- [Not completed - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]
+
 - [Certificate of Completion; Introduction to Programming (Python)] – [Ustacky]
+
 - [Certificate of Completion; Responsive Web Development] – [Coursera]
-- 
+
 - [Certificate of Completion; Master Card Phishing Email Simulation] – [Forage]
-- 
+
+- [Certificate of Completion; DataCom Cloud Computing Simulation] – [Forage]
+
+- [Certificate of Completion; TATA Cybersecurity Analyst Simulation] – [Forage]
+
 
 👉 [View Project](https://drive.google.com/file/d/1FjXLmTG00jVr8BMejV9mkmuG6SlLRfj3/view?usp=drivesdk)
 
