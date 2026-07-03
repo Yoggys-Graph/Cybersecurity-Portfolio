@@ -116,7 +116,7 @@ SIMULATION:
 - [Certificate of Completion; Master Card Phishing Email Simulation] – [Forage]    
 👉 [View Project] (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6a242dd7847afa3019eb733e_1780766804122_completion_certificate.pdf)
 
-- [Certificate of Completion; DataCom Cloud Computing Simulation] – [Forage]     
+- [Certificate of Completion; DataCom Introduction to Cloud Job Simulation] – [Forage]     
 👉 [View Project] (https://drive.google.com/file/d/1RMt3T16siFptGsE3X1_0PI1taPe1hFis/view?usp=drivesdk)
 
 - [Certificate of Completion; TATA Cybersecurity Analyst Job Simulation] – [Forage]    
