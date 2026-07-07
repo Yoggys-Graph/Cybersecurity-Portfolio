@@ -73,6 +73,16 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ---
 
+### 🧑🏿‍💻 Identity Accesss Management (IAM) / Linux Bash
+- Manage Authorization
+- IAM assessment and design
+- Access control mechanisms
+- Linux bash 
+
+👉 [View Project](https://github.com/Yoggys-Graph/IAM_Authorization_Mastery.git)
+
+---
+
 ### 🌐 Web Application Testing
 - Tested vulnerable apps (OWASP Juice Shop)  
 - Identified XSS and SQL injection vulnerabilities  
@@ -103,7 +113,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ## 🎓 Certifications
 
-- [Not completed - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]   
+- [Yet to complete (4 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]   
 👉 [View Project](...)
 
 - [Certificate of Completion; Introduction to Programming (Python)] – [Ustacky]    
