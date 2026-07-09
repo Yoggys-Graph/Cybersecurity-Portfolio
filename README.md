@@ -3,7 +3,7 @@
 🎯 Aspiring Cybersecurity Professional | [SOC Analyst / Security Engineer / Cloud Security]  
 📍 Based in [Lagos]  
 📧 Email: [oluwadamilare4jesus@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/oluwadamilare-ojo-b3a8ba194]
+🔗 LinkedIn: [www.linkedin.com/in/oluwadamilare-ojo-b3a8ba194]
 
 ---
 
