@@ -43,7 +43,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 **Programming**
 - Python
-- SQL
+- SQL (MySQL / MariaDB)
 - HTML/CSS
 - JavaScript
 
@@ -114,25 +114,26 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 ## 🎓 Certifications
 
 - [Yet to complete (4 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]   
-👉 [View Project](...)
+👉 [View Certificate](https://drive.google.com/file/d/1WJ93pQxOlmiilbIKrkieno6z-pBtB-fM/view?usp=drivesdk)
 
 - [Certificate of Completion; Introduction to Programming (Python)] – [Ustacky]    
-👉 [View Project] (https://drive.google.com/file/d/1FjXLmTG00jVr8BMejV9mkmuG6SlLRfj3/view?usp=drivesdk)
+👉 [View Certificate] (https://drive.google.com/file/d/1FjXLmTG00jVr8BMejV9mkmuG6SlLRfj3/view?usp=drivesdk)
 
 - [Certificate of Completion; Responsive Web Development] – [Coursera]    
-👉 [View Project] (https://coursera.org/share/d4ef2988355716325b8bfea82f0377d9)
+👉 [View Certificate] (https://coursera.org/share/d4ef2988355716325b8bfea82f0377d9)
 
 
 SIMULATION:
 
 - [Certificate of Completion; Master Card Phishing Email Simulation] – [Forage]    
-👉 [View Project] (https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6a242dd7847afa3019eb733e_1780766804122_completion_certificate.pdf)
+👉 [View Certificate]
+(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6a242dd7847afa3019eb733e_1780766804122_completion_certificate.pdf)
 
 - [Certificate of Completion; DataCom Introduction to Cloud Job Simulation] – [Forage]     
-👉 [View Project] (https://drive.google.com/file/d/1RMt3T16siFptGsE3X1_0PI1taPe1hFis/view?usp=drivesdk)
+👉 [View Certificate] (https://drive.google.com/file/d/1RMt3T16siFptGsE3X1_0PI1taPe1hFis/view?usp=drivesdk)
 
 - [Certificate of Completion; TATA Cybersecurity Analyst Job Simulation] – [Forage]     
-👉 [View Project] (https://drive.google.com/file/d/1ATcfAw82LMW0eaSc1-FWDHGFkPGmMego/view?usp=drivesdk)
+👉 [View Certificate] (https://drive.google.com/file/d/1ATcfAw82LMW0eaSc1-FWDHGFkPGmMego/view?usp=drivesdk)
 
 
 ---
