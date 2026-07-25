@@ -81,6 +81,8 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 👉 [View Project](https://github.com/Yoggys-Graph/IAM_Authorization_Mastery.git)
 
+👉 [View Project](https://docs.google.com/document/d/1smxWHIkObJAgu-ekcxEzJWiekfNyjDVBq3_GogZjarQ/edit?usp=drivesdk)
+
 ---
 
 ### 🌐 Web Application Testing
