@@ -113,8 +113,15 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ## 🎓 Certifications
 
-- [Yet to complete (4 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]   
+- [Yet to completed (4 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]   
 👉 [View Certificate](https://drive.google.com/file/d/1WJ93pQxOlmiilbIKrkieno6z-pBtB-fM/view?usp=drivesdk)
+
+👉 [View Certificate](https://drive.google.com/file/d/1WJ93pQxOlmiilbIKrkieno6z-pBtB-fM/view?usp=drivesdk)
+
+👉 [View Certificate]()
+
+
+---
 
 - [Certificate of Completion; Introduction to Programming (Python)] – [Ustacky]    
 👉 [View Certificate](https://drive.google.com/file/d/1FjXLmTG00jVr8BMejV9mkmuG6SlLRfj3/view?usp=drivesdk)
