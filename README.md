@@ -109,7 +109,8 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 - Hack The Box Challenges  
 - picoCTF Exercises  
 
-👉 [View Write-ups](link-to-ctf-folder)
+👉 [View Write-ups](https://github.com/Yoggys-Graph/Penetration-Teating--CTF-.git)
+
 
 ---
 
