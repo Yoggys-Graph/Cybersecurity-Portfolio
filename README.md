@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Yoggys Digital Graph Cybersecurity Portfolio Banner" width="100%">
+  <img src="./Cybersecurity-Portfolio/blob/main/file_00000000332481f483033f0e6137aa19.png)" alt="Yoggys Digital Graph Cybersecurity Portfolio Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm [Oluwadamilare Ojo]
