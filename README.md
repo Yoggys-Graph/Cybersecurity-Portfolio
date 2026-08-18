@@ -1,7 +1,7 @@
-<p align="center" width="100%">
+<div align="center" width="100%">
   
   ![Dashboard](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/file_00000000332481f483033f0e6137aa19.png)
-</p>
+</div>
 
 # 👋 Hi, I'm [Oluwadamilare Ojo]
 
