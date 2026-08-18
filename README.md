@@ -1,5 +1,6 @@
-<p align="center">
-![banner](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/file_00000000332481f483033f0e6137aa19.png) alt="Yoggys Digital Graph Cybersecurity Portfolio Banner" width="100%">
+<p align="center" width="100%">
+  
+  ![Dashboard](https://github.com/Yoggys-Graph/SIEM-Dashboard/blob/main/assets/Cybersecurity-Projects-1.png)
 </p>
 
 # 👋 Hi, I'm [Oluwadamilare Ojo]
