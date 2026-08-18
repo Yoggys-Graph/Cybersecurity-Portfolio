@@ -87,15 +87,23 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ### 📊 Incident Report TCPDump / Security hardening 
 
-- TryHackMe Rooms  
-- Hack The Box Challenges  
-- picoCTF Exercises  
+- Capture network traffic using TCPDump.
+- Analyze TCP/IP communication.
+- Identify suspicious network behavior.
+- Investigate unusual connections and ports.
+- Identify potential Indicators of Compromise (IOCs).
+- Reconstruct the incident timeline.
+- Assess the potential security impact.
+- Apply Linux security-hardening techniques.
+- Validate that hardening measures were effective.
+- Document the investigation using a professional incident-response format.
 
 👉 [View Write-ups](https://github.com/Yoggys-Graph/Incedent-Report.git)
 
 ---
 
 ### 🌐 Web Application Testing
+
 - Tested vulnerable apps (OWASP Juice Shop)  
 - Identified XSS and SQL injection vulnerabilities  
 - Used Burp Suite for exploitation  
