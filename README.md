@@ -1,6 +1,6 @@
 <div align="center" width="100%">
   
-  ![Dashboard](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/file_00000000332481f483033f0e6137aa19.png)
+  ![Banner](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/file_00000000332481f483033f0e6137aa19.png)
 </div>
 
 # 👋 Hi, I'm [Oluwadamilare Ojo]
@@ -143,18 +143,17 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 - [Yet to completed (4 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]   
 👉 [View Certificate](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
-  
-👉 [View Certificate]()
-  
-👉 [View Certificate](https://coursera.org/share/ae73730c451c4033255f480c3ec57751)
+  👉 [View Certificate]()
 
-👉 [View Certificate](https://coursera.org/share/36239fe887b9e5b0d7b8b929a31c3b95)
-  
-👉 [View Certificate]()
-👉 [View Certificate]()
-👉 [View Certificate]()
-👉 [View Certificate]()
-👉 [View Certificate]()
+  👉 [View Certificate](https://coursera.org/share/ae73730c451c4033255f480c3ec57751)
+
+  👉 [View Certificate](https://coursera.org/share/36239fe887b9e5b0d7b8b929a31c3b95)
+
+  👉 [View Certificate]()
+  👉 [View Certificate]()
+  👉 [View Certificate]()
+  👉 [View Certificate]()
+  👉 [View Certificate]()
 
 --
 
