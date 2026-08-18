@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Yoggys Digital Graph Cybersecurity Portfolio Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm [Oluwadamilare Ojo]
 
 <div align="center">
