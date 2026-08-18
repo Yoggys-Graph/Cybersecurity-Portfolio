@@ -1,9 +1,11 @@
 # 👋 Hi, I'm [Oluwadamilare Ojo]
 
+<div align="center">
 🎯 Aspiring Cybersecurity Professional | [SOC Analyst / Security Engineer / Cloud Security]  
 📍 Based in [Lagos]  
 📧 Email: [oluwadamilare4jesus@gmail.com]  
 🔗 LinkedIn: [www.linkedin.com/in/oluwadamilare-ojo-b3a8ba194]
+</div>
 
 ---
 
@@ -135,19 +137,19 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 ## 🎓 Certifications
 
 - [Yet to completed (4 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]   
-- 👉 [View Certificate](https://coursera.org/share/36239fe887b9e5b0d7b8b929a31c3b95)
+👉 [View Certificate](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
   
-- 👉 [View Certificate]()
+👉 [View Certificate]()
   
-- 👉 [View Certificate](https://coursera.org/share/ae73730c451c4033255f480c3ec57751)
+👉 [View Certificate](https://coursera.org/share/ae73730c451c4033255f480c3ec57751)
 
-- 👉 [View Certificate](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
+👉 [View Certificate](https://coursera.org/share/36239fe887b9e5b0d7b8b929a31c3b95)
   
-- 👉 [View Certificate]()
-- 👉 [View Certificate]()
-- 👉 [View Certificate]()
-- 👉 [View Certificate]()
-- 👉 [View Certificate]()
+👉 [View Certificate]()
+👉 [View Certificate]()
+👉 [View Certificate]()
+👉 [View Certificate]()
+👉 [View Certificate]()
 
 --
 
