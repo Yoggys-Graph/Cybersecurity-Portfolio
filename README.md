@@ -53,6 +53,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 - SQL (MySQL / MariaDB)
 - HTML/CSS
 - JavaScript
+- Java
 
 ---
 
