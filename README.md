@@ -142,6 +142,8 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ## 🎓 Certifications
 
+- ![CompTIA A+ certificate](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20260902_080412.jpg)
+
 - [Yet to completed (6 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]
   👉 [View Certificate 1](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
   
