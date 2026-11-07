@@ -3,7 +3,7 @@
   ![Banner](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/file_00000000332481f483033f0e6137aa19.png)
 </div>
 
-# 👋 Hi, I'm [Oluwadamilare Ojo]
+# 👋 Hi, I'm Oluwadamilare Ojo
 
 <div align="center">
 🎯 Aspiring Cybersecurity Professional | [SOC Analyst / Security Engineer / Cloud Security]  
