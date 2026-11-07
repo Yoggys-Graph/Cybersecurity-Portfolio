@@ -141,17 +141,19 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ## 🎓 Certifications
 
-- [Yet to completed (4 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]
+- [Yet to completed (6 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]
   👉 [View Certificate 1](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
   
-  👉 [View Certificate 2]()
+  👉 [View Certificate 2](https://coursera.org/share/5359a802cfc930024cbdc0ceff40a7b2)
 
   👉 [View Certificate 3](https://coursera.org/share/ae73730c451c4033255f480c3ec57751)
 
   👉 [View Certificate 4](https://coursera.org/share/36239fe887b9e5b0d7b8b929a31c3b95)
 
-  👉 [View Certificate 5]()
-  👉 [View Certificate 6]()
+  👉 [View Certificate 5](https://coursera.org/share/4e7059220addaece3b97ac10ebe94ae9)
+  
+  👉 [View Certificate 6](https://coursera.org/share/5c87c88a543bbd5f5758916f6e68d9e4)
+  
   👉 [View Certificate 7]()
   👉 [View Certificate 8]()
   👉 [View Certificate 9]()
