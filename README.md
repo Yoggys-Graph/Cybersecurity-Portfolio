@@ -161,9 +161,9 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 --
 
-- ![CompTIA CySA+ (course prep) certificate](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20260902_080412.jpg)
+- ![CompTIA CySA+ (Cert Prep) certificate](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20260902_080412.jpg)
 
-- ![CompTIA Network+ (course prep) certificate](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20260917_145241.jpg)
+- ![CompTIA Network+ (Cert Prep) certificate](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20260917_145241.jpg)
 
 - [Certificate of Completion; Introduction to Programming (Python)] – [Ustacky]    
 👉 [View Certificate](https://drive.google.com/file/d/1FjXLmTG00jVr8BMejV9mkmuG6SlLRfj3/view?usp=drivesdk)
