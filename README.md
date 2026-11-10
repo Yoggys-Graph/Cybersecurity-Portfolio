@@ -121,6 +121,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 ---
 
 ### 🐍 Python Security Tools
+- Automating with Python 
 - Port Scanner  
 - Log Analyzer  
 - Password Strength Checker  
@@ -142,7 +143,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ## 🎓 Certifications
 
-- [Yet to completed (6 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]
+- [Yet to completed (7 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]
   👉 [View Certificate 1](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
   
   👉 [View Certificate 2](https://coursera.org/share/5359a802cfc930024cbdc0ceff40a7b2)
@@ -155,7 +156,8 @@ I actively practice through labs, CTF challenges, and real-world simulations.
   
   👉 [View Certificate 6](https://coursera.org/share/5c87c88a543bbd5f5758916f6e68d9e4)
   
-  👉 [View Certificate 7]()
+  👉 [View Certificate 7](https://coursera.org/share/02f6662bcd2b805c479ebc12bd4b1782)
+  
   👉 [View Certificate 8]()
   👉 [View Certificate 9]()
 
