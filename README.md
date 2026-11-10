@@ -81,7 +81,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ---
 
-### 🧑🏿‍💻 Identity Accesss Management (IAM) / Linux Bash
+### 🧑🏿‍💻 Identity Access Management (IAM) / Linux Bash
 - Manage Authorization
 - IAM assessment and design
 - Access control mechanisms
@@ -121,18 +121,21 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 ---
 
 ### 🐍 Python Security Tools
-- Automating with Python 
-- Port Scanner  
+- Automate cybersecurity tasks with Python
+- Create new, user-defined Python functions
+- Use regular expressions to extract information from text
+- Practice debugging code
 - Log Analyzer  
 - Password Strength Checker  
 
-👉 [View Project](link-to-project)
+👉 [View Project](https://docs.google.com/document/d/1gAVSWFBXIy8pCBoIsePqSHlmwEU3Aymx2fLnyfE9750/edit?usp=drivesdk)
 
 ---
 
 ### 🧪 CTF Write-ups
 
-- TryHackMe Rooms  
+- TryHackMe Rooms
+- Google Skills Lab
 - Hack The Box Challenges  
 - picoCTF Exercises  
 
@@ -144,6 +147,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 ## 🎓 Certifications
 
 - [Yet to completed (7 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]
+
   👉 [View Certificate 1](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
   
   👉 [View Certificate 2](https://coursera.org/share/5359a802cfc930024cbdc0ceff40a7b2)
