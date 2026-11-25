@@ -141,7 +141,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
      ![View Certificate 9](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20261123_181854.jpg)
   
-  👉 ![View Certificate 9](https://coursera.org/share/caff779efc6fef852f3ea28d33ea8b63)
+  👉 [View Certificate 9](https://coursera.org/share/caff779efc6fef852f3ea28d33ea8b63)
 
   👉 [View Certificate 1](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
   
