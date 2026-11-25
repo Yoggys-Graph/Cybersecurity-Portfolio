@@ -16,20 +16,7 @@
 
 ## 🧠 About Me
 
-As an cybersecurity analyst, paying attention to details is one of my strong points. I also have strong written and verbal communication skills.
-
-I'm of the same opinion as this quote: "The price of greatness is responsibility" —Winston Churchill. I believe this value will be useful to your organization if I'm considered.
-
-The feeling you get when you make sure your and other people's belongings are safe and well protected from external threats is what gave birth to this new found passion in cybersecurity.
-
-I have always been the type that gives confidentiality room to thrive and makes sure integrity is well preserved to achieve a less vulnerable lifestyle in today's AI world.
-
-I am passionate about cybersecurity and focused on building hands-on skills in:
-
-- Threat Detection & Incident Response  
-- Network Security & Traffic Analysis  
-- Vulnerability Assessment & Penetration Testing  
-- Security Automation with Python  
+I’m a Cybersecurity Analyst with a background in Computer Science and over a decade of experience in visual design and operations. While my earlier career taught me how to spot subtle visual patterns, manage deadlines under pressure, and communicate complex ideas clearly, I’ve transitioned those strengths into protecting systems—building hands-on experience in SIEM monitoring, phishing analysis, IAM, and incident investigation through 25+ security labs and industry simulations with Mastercard and Tata. I’m looking to join a SOC or security team where I can help detect threats early and translate technical findings into clear action.
 
 I actively practice through labs, CTF challenges, and real-world simulations.
 
@@ -146,7 +133,11 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 ## 🎓 Certifications
 
-- [Yet to completed (7 out of 9 courses) - CompTIA Security+ Certificate of Completion; Google Professional Cybersecurity Course] – [Coursera]
+- [Credly/Google; Google Professional Cybersecurity Certificate] – [Coursera]
+
+  👉 [View Certificate Credly]()
+  
+  👉 [View Certificate 9](https://coursera.org/share/caff779efc6fef852f3ea28d33ea8b63)
 
   👉 [View Certificate 1](https://coursera.org/share/89750ee59bc71968018a2d60c2b6242c)
   
@@ -162,8 +153,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
   
   👉 [View Certificate 7](https://coursera.org/share/02f6662bcd2b805c479ebc12bd4b1782)
   
-  👉 [View Certificate 8]()
-  👉 [View Certificate 9]()
+  👉 [View Certificate 8](https://coursera.org/share/074236de93f743ef57eb8709ebc95388)
 
 --
 
