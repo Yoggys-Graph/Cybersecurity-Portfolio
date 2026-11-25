@@ -135,7 +135,7 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 - [Credly/Google; Google Professional Cybersecurity Certificate] – [Coursera]
 
-  👉 [View Certificate Credly](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20261125_142802.jpg)
+  👉 ![View Certificate Credly](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20261125_142802.jpg)
   
   👉 [View Certificate 9](https://coursera.org/share/caff779efc6fef852f3ea28d33ea8b63)
 
@@ -159,10 +159,16 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 - ![CompTIA CySA+ (Cert Prep) certificate](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20260902_080412.jpg)
 
+--
+
 - ![CompTIA Network+ (Cert Prep) certificate](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20260917_145241.jpg)
+
+--
 
 - [Certificate of Completion; Introduction to Programming (Python)] – [Ustacky]    
 👉 [View Certificate](https://drive.google.com/file/d/1FjXLmTG00jVr8BMejV9mkmuG6SlLRfj3/view?usp=drivesdk)
+
+--
 
 - [Certificate of Completion; Responsive Web Development] – [Coursera]    
 👉 [View Certificate](https://coursera.org/share/d4ef2988355716325b8bfea82f0377d9)
