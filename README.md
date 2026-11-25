@@ -135,7 +135,11 @@ I actively practice through labs, CTF challenges, and real-world simulations.
 
 - [Credly/Google; Google Professional Cybersecurity Certificate] – [Coursera]
 
-  👉 ![View Certificate Credly](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20261125_142802.jpg)
+   ![View Certificate Credly](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20261125_142802.jpg)
+
+    👉 [View Certificate Credly](https://www.credly.com/badges/4db85a7f-d290-4c96-9f6e-25fac8d24375)
+
+     ![View Certificate 9](https://github.com/Yoggys-Graph/Cybersecurity-Portfolio/blob/main/IMG_20261123_181854.jpg)
   
   👉 ![View Certificate 9](https://coursera.org/share/caff779efc6fef852f3ea28d33ea8b63)
 
